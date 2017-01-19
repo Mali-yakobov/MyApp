@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MyFun</string>
+    <string name="name">text_name</string>
+    <string name="hint_email">hint_email</string>
+    <string name="btn_register">button_register</string>
+    <string name="button_register">button_register</string>
+    <string name="button_login">button_login</string>
 </resources>
