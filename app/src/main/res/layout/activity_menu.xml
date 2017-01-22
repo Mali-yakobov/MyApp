@@ -11,19 +11,6 @@
     tools:context="mali.myfun.MenuActivity"
     android:background="@android:color/darker_gray">
 
-    <Button
-        android:text="YouTube"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/button"
-        android:textSize="30sp"
-        android:textStyle="normal|bold|italic"
-        android:textColor="@android:color/background_light"
-        android:background="@android:color/holo_red_dark"
-        android:layout_marginTop="116dp"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true" />
-
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -46,4 +33,27 @@
         android:textColor="@android:color/background_dark"
         android:layout_alignParentTop="true"
         android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="88dp"
+        android:id="@+id/textView"
+        android:textSize="36sp"
+        android:layout_below="@+id/button_youtube"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:text="YouTube"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/button_youtube"
+        android:textSize="30sp"
+        android:textStyle="normal|bold|italic"
+        android:textColor="@android:color/background_light"
+        android:background="@android:color/holo_red_dark"
+        android:layout_marginTop="80dp"
+        android:layout_below="@+id/userName"
+        android:layout_centerHorizontal="true"
+        android:onClick="setOnClickListener" />
 </RelativeLayout>
