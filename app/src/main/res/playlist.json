@@ -1,0 +1,24 @@
+{
+      "Playlists": [
+        {
+          "Title": "HEALING ZEN Music",
+          "link": "https://www.youtube.com/watch?v=SbCpzWMWb68",
+          "thumb": "https://i.ytimg.com/vi_webp/SbCpzWMWb68/mqdefault.webp"
+        },
+        {
+          "Title": "Relaxing Music - Meditation",
+          "link": "https://www.youtube.com/watch?v=qrx1vyvtRLY",
+          "thumb": "https://i.ytimg.com/vi_webp/qrx1vyvtRLY/mqdefault.webp"
+        },
+        {
+          "Title": "Relaxing Music - Background",
+          "link": "https://www.youtube.com/watch?v=loIZy6GqhUw",
+          "thumb": "https://i.ytimg.com/vi_webp/loIZy6GqhUw/mqdefault.webp"
+        },
+        {
+          "Title": "Delta Waves Sleep Music",
+          "link": "https://www.youtube.com/watch?v=EshmcHB3yMg",
+          "thumb": "https://i.ytimg.com/vi_webp/EshmcHB3yMg/mqdefault.webp"
+        }
+      ]
+}
