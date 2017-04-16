@@ -1,24 +1,26 @@
-[{
+[
+  {
       "Playlists": [
         {
-          "Title": "HEALING ZEN Music",
-          "link": "https://www.youtube.com/watch?v=SbCpzWMWb68",
-          "thumb": "https://i.ytimg.com/vi_webp/SbCpzWMWb68/mqdefault.webp"
+          "Title": "Ed Sheeran - Shape of You",
+          "link": "https://www.youtube.com/watch?v=JGwWNGJdvx8&list=RDJGwWNGJdvx8",
+          "thumb": "http://i3.ytimg.com/vi/JGwWNGJdvx8/hqdefault.jpg"
         },
         {
-          "Title": "Relaxing Music - Meditation",
-          "link": "https://www.youtube.com/watch?v=qrx1vyvtRLY",
-          "thumb": "https://i.ytimg.com/vi_webp/qrx1vyvtRLY/mqdefault.webp"
+          "Title": "Clean Bandit - Rockabye ft. Sean Paul & Anne-Marie ",
+          "link": "https://www.youtube.com/watch?v=papuvlVeZg8&index=2&list=RDJGwWNGJdvx8",
+          "thumb": "http://i3.ytimg.com/vi/papuvlVeZg8/hqdefault.jpg"
         },
         {
-          "Title": "Relaxing Music - Background",
-          "link": "https://www.youtube.com/watch?v=loIZy6GqhUw",
-          "thumb": "https://i.ytimg.com/vi_webp/loIZy6GqhUw/mqdefault.webp"
+          "Title": "The Chainsmokers - Closer ft. Halsey",
+          "link": "https://www.youtube.com/watch?v=PT2_F-1esPk&index=8&list=RDJGwWNGJdvx8",
+          "thumb": "http://i3.ytimg.com/vi/PT2_F-1esPk/hqdefault.jpg"
         },
         {
-          "Title": "Delta Waves Sleep Music",
-          "link": "https://www.youtube.com/watch?v=EshmcHB3yMg",
-          "thumb": "https://i.ytimg.com/vi_webp/EshmcHB3yMg/mqdefault.webp"
+          "Title": "The Weeknd - Starboy ft. Daft Punk",
+          "link": "https://www.youtube.com/watch?v=34Na4j8AVgA&index=3&list=RDJGwWNGJdvx8",
+          "thumb": "http://i3.ytimg.com/vi/34Na4j8AVgA/hqdefault.jpg"
         }
       ]
-}]
+  }
+]
